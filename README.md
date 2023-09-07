@@ -26,4 +26,6 @@ To run this application, follow these steps:
 
    ```bash
    git clone https://github.com/baafik/My-Profile-App.git
+
+3. **This is a link to appetize.io:** https://appetize.io/app/ziify2hutn5d24uvwunswid2iy  (See the app in a virtualize demo)
 # My-Profile-App
