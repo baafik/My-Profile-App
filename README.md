@@ -1,4 +1,4 @@
-# slack_github_app
+# My-Profile-App
 
 A new Flutter project.
 
